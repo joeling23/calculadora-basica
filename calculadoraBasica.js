@@ -1,4 +1,11 @@
 console.log("calculadora Basica");
-var y = 20;
-var x = 30;
-console.log(y + x);
+console.log(suma(100, 20));
+
+
+function suma(primerNumero, segundoNumero){
+  return ; primerNumero + segundoNumero;
+
+
+
+}
+

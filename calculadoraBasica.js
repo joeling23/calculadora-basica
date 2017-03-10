@@ -6,3 +6,8 @@ function suma(primerNumero, segundoNumero){
   return primerNumero + segundoNumero;
 }
 
+console.log(resta(30, 22));
+
+function resta(primerNumero, segundoNumero){
+  return primerNumero - segundoNumero;
+}
